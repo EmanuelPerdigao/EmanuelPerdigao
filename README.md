@@ -1,5 +1,5 @@
 - 👋 Hello! I’m @EmanuelPerdigao
 - 👀 I’m interested in Full-Stack development
 - 🌱 I’m currently learning Java and more!
-- 💞️ I’m always learning new things
+- 🏃 I’m always learning new things
 - 📫 Ping me at perdigaosfemanuel@gmail.com
