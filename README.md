@@ -4,7 +4,7 @@
 
 Hello, I’m Emanuel Perdigão. Even before starting my path in Automation, Robotics and Industrial Control, my intuition was pointing me in the direction of Programming. Nonetheless, the odds were against me. But, I like challenges. Having this as a background and taking with me problem-solving, logic and patience skills, here I am, taking my chances as a Full-Stack Developer.
 
-- 👀 Full-Stack Developer
+- 💻 Full-Stack Developer
 - 🏃 I’m always learning new things
 - 👀 I’m currently looking for a job opportunity
 - 💬 If you have any questions principle about Java feel free to ask
