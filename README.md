@@ -9,7 +9,7 @@ I'm looking forward to taking on new projects and challenges, as I see them as a
 - 💻 Full-Stack Developer
 - 🏃 I’m always learning new things
 - 👀 I’m currently looking for a job opportunity
-- 💬 If you have any questions principle about Java feel free to ask
+- 💬 If you have any questions especially about Java feel free to ask
 - 📫 Ping me at perdigaosfemanuel@gmail.com
 
 ---
