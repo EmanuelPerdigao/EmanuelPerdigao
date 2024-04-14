@@ -2,7 +2,9 @@
   About me!
 </h1>
 
-Hello, I’m Emanuel Perdigão. Even before starting my path in Automation, Robotics and Industrial Control, my intuition was pointing me in the direction of Programming. Nonetheless, the odds were against me. But, I like challenges. Having this as a background and taking with me problem-solving, logic and patience skills, here I am, taking my chances as a Full-Stack Developer.
+I'm originally from Barreiro, Portugal. Since the beginning of my studies in Automation and Robotics, I have been passionate about solving problems and exercises that require logical thinking.
+
+I'm looking forward to taking on new projects and challenges, as I see them as an opportunity to expand my experience, so if you happen to struggle with one, ping me!
 
 - 💻 Full-Stack Developer
 - 🏃 I’m always learning new things
